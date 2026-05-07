@@ -14,9 +14,9 @@ IO_LOC "mon_rx" 98;
 IO_PORT "mon_rx" PULL_MODE=NONE IO_TYPE=LVCMOS33; 
 
 // six leds
-IO_LOC "leds[0]" 105;
+IO_LOC "leds[0]" 106;
 IO_PORT "leds[0]" PULL_MODE=NONE IO_TYPE=LVCMOS33; 
-IO_LOC "leds[1]" 106;
+IO_LOC "leds[1]" 105;
 IO_PORT "leds[1]" PULL_MODE=NONE IO_TYPE=LVCMOS33; 
 IO_LOC "leds[2]" 104;
 IO_PORT "leds[2]" PULL_MODE=NONE IO_TYPE=LVCMOS33; 
